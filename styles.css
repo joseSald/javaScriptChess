@@ -9,9 +9,22 @@ flex-wrap: wrap;
     height:40px;
     width:40px;
 }
+
+.square svg{
+    height: 30px;
+    width:30px;
+    margin:5px;
+}
+
 .beige {
     background-color: rgb(110, 110, 98);
 }
 .brown{
     background-color: rgb(169, 43, 43);
+}
+.black{
+    fill: rgb(28,28,28)
+}
+.white{
+    fill: rgb(253, 253, 253)
 }
